@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://mygptfx-coder.github.io/Downloaders/sitemap.xml

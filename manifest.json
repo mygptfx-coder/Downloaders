@@ -1,0 +1,16 @@
+{
+  "name": "Bulk Video Downloaders",
+  "short_name": "BulkDownloaders",
+  "description": "Professional Windows tools for downloading TikTok videos and YouTube Shorts in bulk.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
